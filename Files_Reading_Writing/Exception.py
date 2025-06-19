@@ -1,6 +1,6 @@
 try:
     f = open('Curruptfile.txt')
-    # if f.name == 'currupt_file.txt':
+    # if f.name == 'Currupt_file.txt':
     #     raise Exception
 except IOError as e:
     print('IOError occurred:', e)
